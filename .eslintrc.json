@@ -1,0 +1,8 @@
+{
+    "extends": "airbnb",
+    "esversion": 6,
+    "rules": {
+        "react/prefer-stateless-function": "off",
+        "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }]
+    }
+}
