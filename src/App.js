@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { Button } from '@rebass/grid';
+import { Button } from 'rebass';
 import './App.css';
 
 class App extends Component {
